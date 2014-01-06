@@ -1,0 +1,296 @@
+2013-10-09 23:12:45 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 312 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 10 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 104 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 60 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 662 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 39 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 176 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 37 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 158 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-10-09 23:12:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-09 23:12:47 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 43 ms)
+2013-10-09 23:12:47 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 409 ms)
+2013-10-09 23:17:36 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-09 23:17:36 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-09 23:17:39 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2083 ms)
+2013-10-09 23:17:39 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2070 ms)
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4159 ms)
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 414 ms)
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 417 ms)
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 22 ms)
+2013-10-09 23:17:41 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 855 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 36 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 10 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 27 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 157 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 47 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 109 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 42 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 106 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 15 ms)
+2013-10-09 23:20:29 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 243 ms)
+2013-10-10 00:44:53 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-10 00:44:53 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 518 ms)
+2013-10-10 00:44:53 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-10 00:44:53 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 135 ms)
+2013-10-10 01:00:21 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-10 01:00:21 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-10 01:00:24 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2108 ms)
+2013-10-10 01:00:24 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2071 ms)
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4210 ms)
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 402 ms)
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 458 ms)
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-10 01:00:26 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 35 ms)
+2013-10-10 01:00:27 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 1087 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 29 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 29 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 46 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 237 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 40 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 101 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 41 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 103 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 16 ms)
+2013-10-10 01:00:37 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 233 ms)
+2013-10-10 08:29:20 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-10 08:29:20 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-10 08:29:23 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2640 ms)
+2013-10-10 08:29:23 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-10 08:29:25 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2065 ms)
+2013-10-10 08:29:25 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4864 ms)
+2013-10-10 08:29:25 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-10 08:29:25 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-10 08:29:25 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-10 08:29:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 936 ms)
+2013-10-10 08:29:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 1233 ms)
+2013-10-10 08:29:26 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-10 08:29:26 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 6 ms)
+2013-10-10 08:29:27 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 2422 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 45 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 10 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 23 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 170 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 35 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 86 ms)
+2013-10-10 21:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 34 ms)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 91 ms)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-10-10 21:44:13 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 199 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 40 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 16 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 37 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 173 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 51 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 122 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 57 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 135 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 16 ms)
+2013-10-10 22:22:12 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 289 ms)
+2013-10-10 23:42:47 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-10 23:42:47 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-10 23:42:49 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2179 ms)
+2013-10-10 23:42:49 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-10 23:42:51 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2085 ms)
+2013-10-10 23:42:51 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4275 ms)
+2013-10-10 23:42:51 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-10 23:42:51 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-10 23:42:51 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-10 23:42:52 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 444 ms)
+2013-10-10 23:42:52 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 480 ms)
+2013-10-10 23:42:52 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-10 23:42:52 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 5 ms)
+2013-10-10 23:42:52 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 911 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 26 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 12 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 28 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 257 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 49 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 113 ms)
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-10 23:44:12 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 48 ms)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 107 ms)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 18 ms)
+2013-10-10 23:44:13 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 247 ms)
+2013-10-11 00:06:37 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-11 00:06:37 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-11 00:06:39 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2121 ms)
+2013-10-11 00:06:39 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-11 00:06:41 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2087 ms)
+2013-10-11 00:06:41 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4239 ms)
+2013-10-11 00:06:41 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-11 00:06:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-11 00:06:41 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-11 00:06:42 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 404 ms)
+2013-10-11 00:06:42 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 409 ms)
+2013-10-11 00:06:42 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-11 00:06:42 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 6 ms)
+2013-10-11 00:06:42 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 825 ms)
+2013-10-11 09:50:01 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-11 09:50:01 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 16 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 6 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 12 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 2 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 75 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 18 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 40 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 48 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 3 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-10-11 09:50:02 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 100 ms)
+2013-10-11 11:53:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Calling JavaScript request handler, HTTP connection handler
+2013-10-11 11:53:26 [com.wakanda-software.testPhoneGap.testPhoneGap.JS4D] ERROR - [1] TypeError: 'undefined' is not an object (evaluating 'referer.split'), HTTP connection handler
+2013-10-11 11:53:26 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-11 11:53:26 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-11 11:53:28 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2170 ms)
+2013-10-11 11:53:28 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-11 11:53:30 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2030 ms)
+2013-10-11 11:53:30 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4204 ms)
+2013-10-11 11:53:30 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-11 11:53:30 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-11 11:53:30 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-11 11:53:31 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 440 ms)
+2013-10-11 11:53:31 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 483 ms)
+2013-10-11 11:53:31 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-11 11:53:31 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 20 ms)
+2013-10-11 11:53:31 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 950 ms)
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap] INFO - Opening the solution
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap] INFO - Opening the users and groups directory
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap] INFO - Users and groups directory opened (duration: 53 ms)
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the project
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Opening the database
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database opened (duration: 39 ms)
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project opened (duration: 90 ms)
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Opening the project
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project opened (duration: 16 ms)
+2013-10-11 11:53:45 [com.wakanda-software.testPhoneGap] INFO - Solution opened (duration: 207 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap] INFO - Starting the solution
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the project
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Starting the HTTP server
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - HTTP server started (duration: 28 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project started (duration: 77 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the project
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Starting the HTTP server
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project started (duration: 93 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Executing the bootstrap(s)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Bootstrap(s) executed (duration: 36 ms)
+2013-10-11 11:53:46 [com.wakanda-software.testPhoneGap] INFO - Solution started (duration: 215 ms)
+2013-10-11 14:26:22 [com.wakanda-software.testPhoneGap] INFO - Stopping the solution
+2013-10-11 14:26:22 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Stopping the project
+2013-10-11 14:26:25 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project stopped (duration: 2791 ms)
+2013-10-11 14:26:25 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Stopping the project
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project stopped (duration: 2032 ms)
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap] INFO - Solution stopped (duration: 4907 ms)
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap] INFO - Closing the solution
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the project
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Closing the database
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Database closed (duration: 536 ms)
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.testPhoneGap] INFO - Project closed (duration: 685 ms)
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Closing the project
+2013-10-11 14:26:27 [com.wakanda-software.testPhoneGap.ServerAdmin] INFO - Project closed (duration: 101 ms)
+2013-10-11 14:26:28 [com.wakanda-software.testPhoneGap] INFO - Solution closed (duration: 1485 ms)
